@@ -1,0 +1,35 @@
+{
+  "name": "cimingge",
+  "version": "1.0.0",
+  "description": "Search words in Chinese Tang Poems",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiyu923/quming.git"
+  },
+  "keywords": [
+    "tang",
+    "poems",
+    "quming"
+  ],
+  "author": "suiyu923",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suiyu923/quming/issues"
+  },
+  "homepage": "https://github.com/suiyu923/quming#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "q": "^1.4.1",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
