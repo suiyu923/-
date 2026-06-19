@@ -20,7 +20,7 @@
 </p>
 
 <!-- DREAMFIELD_README_HEADER_END -->
-
+本项目由DeepSeek AI 辅助创作完成
 
 ## 使用方法
 
