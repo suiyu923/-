@@ -20,7 +20,10 @@
 </p>
 
 <!-- DREAMFIELD_README_HEADER_END -->
-本项目由DeepSeek AI 辅助创作完成      📚🏠赐名阁🏠📚
+## 🙏 鸣谢
+本项目全程由 Deepseek AI 辅助完成开发工作；特别感谢 Dreamfield 对本计划的大力宣传与推广支持。
+ 
+📚🏠赐名阁🏠📚
 
 <img width="1706" height="1280" alt="ceab7ba6e71c14954451bc1f7e8bace5" src="https://github.com/user-attachments/assets/b545f663-550c-4fb4-8b8a-9b85bbe579f4" />
 
